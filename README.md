@@ -1,1 +1,1 @@
-Now you practice what i have learned.
+Now you practive what i have learned.
