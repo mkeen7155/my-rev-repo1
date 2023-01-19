@@ -1,2 +1,1 @@
-# my-rev-repo1
-Practice revision for learning Git.
+Now you practice what i have learned.
